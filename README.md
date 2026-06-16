@@ -1,5 +1,7 @@
 <h1 align="center">Hi 👋, I'm Tasnim Ahmed</h1>
-<h3 align="center">A passionate UI/UX and frontend developer from Bangladesh</h3>
+<h3 align="center">🎓 B.Sc. in Computer Science & Engineering</h3>
+
+I am a Computer Science & Engineering student at Southeast University with a passion for building software, exploring computer graphics, and creating technology that improves people's lives. I enjoy learning new technologies, working on meaningful projects, and exploring research opportunities at the intersection of computing and human experience.
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=tasnim0000000&label=Profile%20views&color=0e75b6&style=flat" alt="tasnim0000000" /> </p>
 
